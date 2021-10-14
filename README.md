@@ -1,5 +1,5 @@
 
-<h2 align="center" > 🤩 Olá! Eu sou a Julia 🤩</h1>
+<h2 > 🤩 Olá! Eu sou a Julia 🤩</h1>
 
 - 💻 Hoje estou em busca de um trabalho na área de TI 
 - 🤓 Atualemente estou estudando JavaScript
