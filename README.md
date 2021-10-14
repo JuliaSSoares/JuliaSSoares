@@ -1,11 +1,11 @@
 
-<h2 > 🤩 Olá! Eu sou a Julia 🤩</h1>
+<h2 align="center"> 🤩 Olá! Eu sou a Julia 🤩</h2>
 
 - 💻 Hoje estou em busca de um trabalho na área de TI 
 - 🤓 Atualemente estou estudando JavaScript
 - 🤪 Faço algumas misturas muito peculiares de filosofia com programação
 <br>
-<div align="center">
+<div >
   <a href="https://github.com/JuliaSSoares">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuliaSSoares&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSSoares&layout=compact&langs_count=7&theme=monokai"/>
