@@ -2,7 +2,7 @@
 <h2 align="center"> 🤩 Olá! Eu sou a Julia 🤩</h2>
 
 - 💻 Hoje estou em busca de um trabalho na área de TI 
-- 🤓 Atualemente estou estudando JavaScript, Python e Java
+- 🤓 Atualemente estou estudando JavaScript e Python
 <br>
 <div >
   <a href="https://github.com/JuliaSSoares">
