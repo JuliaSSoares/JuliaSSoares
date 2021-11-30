@@ -4,7 +4,7 @@
 - 💻 Hoje estou em busca de um trabalho na área de TI 
 - 🤓 Atualemente estou estudando JavaScript e Python
 <br>
-<div >
+<div align="center" >
   <a href="https://github.com/JuliaSSoares">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuliaSSoares&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSSoares&layout=compact&langs_count=7&theme=monokai"/>
@@ -33,10 +33,7 @@
 <br>
 <div align="center">
   <img height="200" width="300" src="https://cdn.dribbble.com/users/747795/screenshots/5588411/shot-1.gif" />
-   
-   <hr>
-   <br>
-  ![Snake animation](https://github.com/JuliaSSoares/JuliaSSoares/blob/output/github-contribution-grid-snake.svg)
+
 </div>
   
   
