@@ -33,6 +33,10 @@
 <br>
 <div align="center">
   <img height="200" width="300" src="https://cdn.dribbble.com/users/747795/screenshots/5588411/shot-1.gif" />
+   
+   <hr>
+   <br>
+  ![Snake animation](https://github.com/JuliaSSoares/JuliaSSoares/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   
