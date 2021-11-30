@@ -48,7 +48,7 @@
     <a href="https://www.linkedin.com/in/julia-ap-s-soares/" target="_blank"><img width="45px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1638287167~hmac=3589dd02acc216873f12fa432e9bab27" ></a>   &nbsp;  &nbsp;
     <a href ="https://discord.gg/cyd9xdTy"><img width="45px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504896.png?token=exp=1638287421~hmac=63517eed81e9cfa8c7df1e4f8759534b"></a>  
 </div>
-
+<br><br>
 
   
   
