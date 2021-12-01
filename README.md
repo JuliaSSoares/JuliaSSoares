@@ -1,11 +1,11 @@
 
 <h2 align="center">🌈 Olá! Eu sou a Julia </h2>
 <br>
-🔸 💻 Em busca de aprimoramento para o mercado de tecnologia <br><br>
-🔸 🤓 Atualmente estou estudando JavaScript, Python e C#
-<br>
-<br>  
 
+ <div align="left">
+  🔸 💻 Em busca de aprimoramento para o mercado de tecnologia <br><br>
+  🔸 🤓 Atualmente estou estudando JavaScript, Python e C#
+ </div> 
 <br>
 <br>
 <div align="center" >
