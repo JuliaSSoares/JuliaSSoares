@@ -45,7 +45,7 @@
     <a href="https://instagram.com/ssoares.julia" ><img width="45px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" target="_blank"></a> &nbsp; 
     &nbsp;
     <a href = "mailto:ssap.julia@gmail.com"><img  width="45px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>  &nbsp;  &nbsp;
-    <a href="https://www.linkedin.com/in/julia-ap-s-soares/" target="_blank"><img width="45px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1638287167~hmac=3589dd02acc216873f12fa432e9bab27" ></a>   &nbsp;  &nbsp;
+    <a href="https://www.linkedin.com/in/julia-ap-s-soares/" target="_blank"><img width="45px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1638447724~hmac=358d41e5eea0cd37d8c464d13d18e199" ></a>   &nbsp;  &nbsp;
     <a href ="https://discord.gg/cyd9xdTy"><img width="45px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504896.png?token=exp=1638287421~hmac=63517eed81e9cfa8c7df1e4f8759534b"></a>  
 </div>
 <br><br>
