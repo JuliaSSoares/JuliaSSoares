@@ -4,7 +4,7 @@
 
  <div align="left">
   🔸 💻 Em busca de aprimoramento para o mercado de tecnologia <br><br>
-  🔸 🤓 Atualmente estou estudando JavaScript, Python e C#
+  🔸 🤓 Atualmente estou estudando C# Asp.NET
  </div> 
 <br>
 <br>
