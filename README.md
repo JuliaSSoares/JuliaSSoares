@@ -5,6 +5,7 @@
  <div align="left">
   🔸 💻 Currently working in improve my skills for tecnology enterprizes.<br><br>
   🔸 🤓 Studing C# Asp.NET.
+ 
  </div> 
 <br>
 <br>
