@@ -1,10 +1,10 @@
 
-<h2 align="center">🌈 Olá! Eu sou a Julia </h2>
+<h2 align="center">🌈 Hi! I'm Julia! </h2>
 <br>
 
  <div align="left">
-  🔸 💻 Em busca de aprimoramento para o mercado de tecnologia <br><br>
-  🔸 🤓 Atualmente estou estudando C# Asp.NET
+  🔸 💻 Currently working in improve my skills for tecnology enterprizes.<br><br>
+  🔸 🤓 Studing C# Asp.NET.
  </div> 
 <br>
 <br>
@@ -41,11 +41,11 @@
  ##
   
  <div align="center"> 
-  <h3><img width="20px"  src="https://cdn-icons-png.flaticon.com/512/1370/1370993.png"> Contate-me:</h3>
+  <h3><img width="20px"  src="https://cdn-icons-png.flaticon.com/512/1370/1370993.png">  Contact me:</h3>
   <br>
     <a href="https://instagram.com/ssoares.julia" ><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp; 
     &nbsp;
-    <a href = "mailto:ssap.julia@gmail.com"><img alt="gmail" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  &nbsp;  &nbsp;
+    <a href = "mailto:ssap.julia@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  &nbsp;  &nbsp;
     <a href="https://www.linkedin.com/in/julia-ap-s-soares/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>   &nbsp;  &nbsp;
     <a href ="https://discord.gg/cyd9xdTy"><img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
 </div>
