@@ -5,16 +5,7 @@
  <div align="left">
   🔸 💻 Currently working in improve my skills for tecnology enterprizes.<br><br>
   🔸 🤓 Studing C# Asp.NET.
- 
- </div> 
-<br>
-<br>
-<div align="center" >
-  <a href="https://github.com/JuliaSSoares">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuliaSSoares&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSSoares&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-  
+
 <br>
   
 <div align="center">
