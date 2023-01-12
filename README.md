@@ -18,22 +18,6 @@
 <br>
   
 <div align="center">
-  <img align="center" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
- <img align="center" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
- <img align="center" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- <img align="center" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-</div>
-
-  
-##
-
-
-<br>
-  
-<div align="center">
   
   <img justify-content= "center" height="200" width="300" src="https://cdn.dribbble.com/users/747795/screenshots/5588411/shot-1.gif" />
   <br>
