@@ -4,7 +4,6 @@
 
  <div align="left">
   🔸 💻 Currently working in improve my skills for tecnology enterprizes with C# Asp.NET.<br><br>
-  🔸 🤓 Studing VueJS.
 
 <br>
   
