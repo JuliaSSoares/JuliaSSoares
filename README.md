@@ -76,6 +76,3 @@ Intensive Software Development Bootcamp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSSoares&layout=compact&theme=radical">
 </p>
 
-<p align="center">
-  <img src="https://github.com/JuliaSSoares/JuliaSSoares/blob/output/github-contribution-grid-snake.svg">
-</p>
