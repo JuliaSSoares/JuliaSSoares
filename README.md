@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" alt="Coding animation">
 </p>
 
----
 
 ### 🚀 About Me
 - 🔭 Currently working as **Software Development Analyst** at [Vsoft Tecnologia](https://www.vsoft.com.br/)
