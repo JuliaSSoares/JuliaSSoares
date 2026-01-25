@@ -1,11 +1,12 @@
-<h1 align="center">👋 Hello, I'm Julia Santos</h1>
-<h3 align="center">Software Developer | .NET & Software Architecture</h3>
+<h1 align="center">Julia Santos</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" alt="Coding animation">
+  Software Engineering • Distributed Systems • Architecture
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="120" alt=".NET logo">
 </p>
 
----
 
 ### 🚀 About Me
 - 🔭 Currently working as **Software Development Analyst** at [Vsoft Tecnologia](https://www.vsoft.com.br/)
@@ -14,7 +15,7 @@
 - 📚 Certified in **AWS Technical Essentials** and **Software Metrics**
 - ⚡ Fun fact: I turn coffee ☕ into scalable systems 💻
 
----
+<hr />/
 
 ### 🛠 Tech Stack
 <p align="center">
@@ -28,7 +29,7 @@
 
 </p>
 
----
+<hr />
 
 ### 📐 Architecture & Design
 - Event-Driven Architecture (EDA)
@@ -69,23 +70,23 @@ Technology in Systems Analysis and Development
 `📚 2021`  
 Intensive Software Development Bootcamp  
 
----
 
-### 📜 Certifications
-- **AWS Technical Essentials**
-- **Software Architecture Certification**
-- **Test-Driven Development (TDD) Specialist**
+<hr />
 
----
+### 📊 GitHub Stats & Activity<p align="center">
 
-### 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuliaSSoares&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuliaSSoares)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSSoares&layout=compact)
-
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JuliaSSoares&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSSoares&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
+</p>
 
 ### 📞 Let's Connect
 
