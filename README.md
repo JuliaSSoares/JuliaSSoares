@@ -7,29 +7,28 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="120" alt=".NET logo">
 </p>
 
-
 ### 🚀 About Me
 - 🔭 Currently working as **Software Development Analyst** at [Vsoft Tecnologia](https://www.vsoft.com.br/)
 - 🌱 Focusing on **Software Architecture**, **Distributed Systems**, and **Cloud-Native Solutions**
-- 💡 Strong advocate of **Clean Code**, **SOLID**, **DDD concepts**, and **TDD**
+- 💡 Focused on Clean Code, SOLID principles, DDD concepts, and TDD in real-world systems
 - 📚 Certified in **AWS Technical Essentials** and **Software Metrics**
-- ⚡ Fun fact: I turn coffee ☕ into scalable systems 💻
 
-<hr />/
+<br />
 
 ### 🛠 Tech Stack
-<p align="center">
 
+<br />
+<p align="center">
+  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-100000?style=for-the-badge&logo=xunit&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 </p>
 
-<hr />
+<br />
 
 ### 📐 Architecture & Design
 - Event-Driven Architecture (EDA)
@@ -40,7 +39,7 @@
 - System modeling with **C4 Model** and **Draw.io**
 - Observability, resilience, and fault tolerance concepts
 
----
+<br />
 
 ### 💼 Experience
 
@@ -58,7 +57,7 @@
 - Implemented automated tests using **xUnit** and **NUnit**
 - Collaborated with product and engineering teams using agile methodologies
 
----
+<br />
 
 ### 🎓 Education
 
@@ -71,7 +70,7 @@ Technology in Systems Analysis and Development
 Intensive Software Development Bootcamp  
 
 
-<hr />
+<br />
 
 ### 📊 GitHub Stats & Activity<p align="center">
 
@@ -88,10 +87,15 @@ Intensive Software Development Bootcamp
   />
 </p>
 
+<br />
+
 ### 📞 Let's Connect
+
+<br />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-ap-s-soares/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssap.julia@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cyd9xdTy)
 
----
+
