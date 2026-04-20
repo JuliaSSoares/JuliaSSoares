@@ -44,7 +44,7 @@
 ### 💼 Experience
 
 **Vsoft Tecnologia**  
-`📅 Sep 2023 – Present | Remote`  
+`📅 Nov 2022 – Present | Remote`  
 **Software Development Analyst**
 - Design and maintain enterprise-grade .NET applications
 - Contribute to architectural discussions and technical decision-making
